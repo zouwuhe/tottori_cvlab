@@ -1,0 +1,32 @@
+﻿2013/12/6 15:20:26 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\tottori.xy\Desktop\calibrate color and IR camera with non-overlapping views\stereo calibration(IR_RGB)\stereo calibration(IR_RGB)\stereo calibration(IR_RGB).vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\stereo calibration(IR_RGB).unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\program files\opencv2.3.1\build\include\opencv2\flann\flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': が古い形式として宣言されました。
+                 c:\program files\opencv2.3.1\build\include\opencv2\flann\flann.hpp(278) : コンパイルされたクラスの テンプレート のインスタンス化 'cv::flann::Index_<T>' の参照を確認してください
+     1>c:\users\tottori.xy\desktop\calibrate color and ir camera with non-overlapping views\stereo calibration(ir_rgb)\stereo calibration(ir_rgb)\main.cpp(175): warning C4244: '=' : 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\tottori.xy\desktop\calibrate color and ir camera with non-overlapping views\stereo calibration(ir_rgb)\stereo calibration(ir_rgb)\main.cpp(176): warning C4244: '=' : 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\tottori.xy\desktop\calibrate color and ir camera with non-overlapping views\stereo calibration(ir_rgb)\stereo calibration(ir_rgb)\main.cpp(282): warning C4244: '=' : 'int' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\tottori.xy\desktop\calibrate color and ir camera with non-overlapping views\stereo calibration(ir_rgb)\stereo calibration(ir_rgb)\main.cpp(283): warning C4244: '=' : 'int' から 'float' への変換です。データが失われる可能性があります。
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tottori.xy\Desktop\calibrate color and IR camera with non-overlapping views\stereo calibration(IR_RGB)\Debug\stereo calibration(IR_RGB).exe" /INCREMENTAL /NOLOGO Kinect10.lib opencv_calib3d231d.lib opencv_contrib231d.lib opencv_core231d.lib opencv_features2d231d.lib opencv_flann231d.lib opencv_gpu231d.lib opencv_highgui231d.lib opencv_imgproc231d.lib opencv_legacy231d.lib opencv_ml231d.lib opencv_objdetect231d.lib opencv_ts231d.lib opencv_video231d.lib opencv_calib3d231.lib opencv_contrib231.lib opencv_core231.lib opencv_features2d231.lib opencv_flann231.lib opencv_gpu231.lib opencv_highgui231.lib opencv_imgproc231.lib opencv_legacy231.lib opencv_ml231.lib opencv_objdetect231.lib opencv_ts231.lib opencv_video231.lib /MANIFEST /ManifestFile:"Debug\stereo calibration(IR_RGB).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\tottori.xy\Desktop\calibrate color and IR camera with non-overlapping views\stereo calibration(IR_RGB)\Debug\stereo calibration(IR_RGB).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tottori.xy\Desktop\calibrate color and IR camera with non-overlapping views\stereo calibration(IR_RGB)\Debug\stereo calibration(IR_RGB).lib" /MACHINE:X86 "Debug\stereo calibration(IR_RGB).exe.embed.manifest.res"
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\stereo calibration(IR_RGB).exe.embed.manifest" /manifest "Debug\stereo calibration(IR_RGB).exe.intermediate.manifest"
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         stereo calibration(IR_RGB).vcxproj -> C:\Users\tottori.xy\Desktop\calibrate color and IR camera with non-overlapping views\stereo calibration(IR_RGB)\Debug\stereo calibration(IR_RGB).exe
+       FinalizeBuildStatus:
+         ファイル "Debug\stereo calibration(IR_RGB).unsuccessfulbuild" を削除しています。
+         "Debug\stereo calibration(IR_RGB).lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\tottori.xy\Desktop\calibrate color and IR camera with non-overlapping views\stereo calibration(IR_RGB)\stereo calibration(IR_RGB)\stereo calibration(IR_RGB).vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:04.97

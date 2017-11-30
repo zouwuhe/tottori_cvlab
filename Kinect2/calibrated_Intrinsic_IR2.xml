@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Intrinsic_IR2 type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    588.25976563 0. 319.84799194 0. 588.26037598 231.88456726 0. 0. 1.</data></Intrinsic_IR2>
+</opencv_storage>

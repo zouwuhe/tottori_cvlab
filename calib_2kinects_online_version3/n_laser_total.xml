@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<n_laser_total type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    0.67132145 0.68241829 0.65956509 0.87179941 0.92068207 0.90026891
+    -21.30960464 -21.32105827 -21.32185173</data></n_laser_total>
+</opencv_storage>

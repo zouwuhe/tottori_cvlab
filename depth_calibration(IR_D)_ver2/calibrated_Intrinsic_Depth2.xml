@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<calibrated_Intrinsic_Depth2 type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>2</cols>
+  <dt>f</dt>
+  <data>
+    2.48147416 -1.57462829e-003</data></calibrated_Intrinsic_Depth2>
+</opencv_storage>

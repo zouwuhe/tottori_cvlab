@@ -1,0 +1,3 @@
+与depth_calibration(IR_D)_version1 的区别在于：
+本程序是 实现获取不同深度的几对 depth_IR images，进行标定 depth camera。
+以提高 depth camera 的标定结果对 depth 的鲁棒性。

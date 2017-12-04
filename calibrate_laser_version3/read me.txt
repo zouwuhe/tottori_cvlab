@@ -1,0 +1,16 @@
+标定固定在板子上的激光n相对于标定板的方向
+
+程序中调用事先标定好的Po在标定板上的位置
+
+运行程序
+输入parttern1的size （9，6） kinect1的仰角  实验次数
+打开激光，用手遮挡pattern1，并用kinect1对着pattern1拍
+调整pattern1姿势，使得pattern1的图像被激光斑覆盖(激光正入射镜头)
+此时，放开遮挡pattern1的手，让pattern1完全进入kinect1视野，然后遮挡住激光。
+此时pattern1被kinect1识别，并自动算出一组 n_laser（激光笔相对于pattern1的方向）。(并将其中的 n_laser 都单位化)
+
+如果实验中出现误差，则按下"p",跳过这组数据，不予保存。
+如果对实验过程满意，则按下"enter"，保存这组数据。
+
+如此往复几次，依次采集几组 n_laser 数据，并保存。
+
